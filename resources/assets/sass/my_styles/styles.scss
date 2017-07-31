@@ -1,0 +1,35 @@
+.calcBG
+{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin: 50px auto;
+  border: 2px solid red;
+  padding: 7px;
+  border-radius: 8px;
+}
+
+.rows
+{
+  display: flex;
+  width: 100%;
+  padding: 4px;
+}
+
+.btn
+{
+  height: 30px;
+  width: 30px;
+  margin: auto;
+}
+
+.form
+{
+  width: 92%;
+  margin: auto;
+}
+
+.screen
+{
+  width: 100%;
+}
